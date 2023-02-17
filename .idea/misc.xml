@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Programming/Java/GroPlant-master/app/src/main/res/drawable/gradient_bg.xml" value="0.337" />
+        <entry key="..\:/Programming/Java/GroPlant-master/app/src/main/res/drawable/ic_cactus_2.xml" value="0.177" />
+        <entry key="..\:/Programming/Java/GroPlant-master/app/src/main/res/drawable/icon_trash_can.xml" value="0.337" />
+        <entry key="..\:/Programming/Java/GroPlant-master/app/src/main/res/drawable/icon_trees.xml" value="0.362" />
+        <entry key="..\:/Programming/Java/GroPlant-master/app/src/main/res/layout/activity_edit_plant.xml" value="0.19114583333333332" />
+        <entry key="..\:/Programming/Java/GroPlant-master/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Programming/Java/GroPlant-master/app/src/main/res/layout/activity_new_plant.xml" value="0.19114583333333332" />
+        <entry key="..\:/Programming/Java/GroPlant-master/app/src/main/res/layout/activity_settings_layout.xml" value="0.33" />
+        <entry key="..\:/Programming/Java/GroPlant-master/app/src/main/res/layout/adapter_view_layout.xml" value="0.19114583333333332" />
+        <entry key="..\:/Programming/Java/GroPlant-master/app/src/main/res/layout/dialog_select_icon_layout.xml" value="0.19114583333333332" />
+        <entry key="..\:/Programming/Java/GroPlant-master/app/src/main/res/layout/google_lens_install_dialog.xml" value="0.19114583333333332" />
+        <entry key="..\:/Programming/Java/GroPlant-master/app/src/main/res/layout/main_middle_dialog.xml" value="0.25" />
+        <entry key="..\:/Programming/Java/GroPlant-master/app/src/main/res/layout/onboarding_dialog_1.xml" value="0.1707193515704154" />
+        <entry key="..\:/Programming/Java/GroPlant-master/app/src/main/res/layout/onboarding_dialog_2.xml" value="0.1707193515704154" />
+        <entry key="..\:/Programming/Java/GroPlant-master/app/src/main/res/layout/onboarding_dialog_3.xml" value="0.1707193515704154" />
+        <entry key="..\:/Programming/Java/GroPlant-master/app/src/main/res/layout/settings_about_dialog.xml" value="0.36666666666666664" />
+        <entry key="..\:/Programming/Java/GroPlant-master/app/src/main/res/layout/settings_licenses_dialog.xml" value="0.3188405797101449" />
+        <entry key="..\:/Programming/Java/GroPlant-master/app/src/main/res/layout/settings_postpone_dialog.xml" value="0.3188405797101449" />
+        <entry key="..\:/Programming/Java/GroPlant-master/app/src/main/res/layout/tip_brain_dialog.xml" value="0.3188405797101449" />
+        <entry key="..\:/Programming/Java/GroPlant-master/app/src/main/res/layout/tip_fertilizer_dialog.xml" value="0.3188405797101449" />
+        <entry key="..\:/Programming/Java/GroPlant-master/app/src/main/res/layout/tip_finger_dialog.xml" value="0.3188405797101449" />
+        <entry key="..\:/Programming/Java/GroPlant-master/app/src/main/res/layout/tip_repotting_dialog.xml" value="0.3188405797101449" />
+        <entry key="..\:/Programming/Java/GroPlant-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.337" />
+        <entry key="..\:/Programming/Java/Wateria-master/app/src/main/res/drawable/ic_common_8_monstera.xml" value="0.3605" />
+        <entry key="..\:/Programming/Java/Wateria-master/app/src/main/res/layout/activity_edit_plant.xml" value="0.3619791666666667" />
+        <entry key="..\:/Programming/Java/Wateria-master/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Programming/Java/Wateria-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.363" />
+        <entry key="..\:/Programming/Java/Wateria-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.363" />
+        <entry key="..\:/Users/ai/AndroidStudioProjects/Wateria-master/app/src/main/res/layout/activity_edit_plant.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ai/AndroidStudioProjects/Wateria-master/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
